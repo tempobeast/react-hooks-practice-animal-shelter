@@ -7,7 +7,7 @@
       "age": 4,
       "weight": 1,
       "name": "Trident",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "2c902312-dfa3-446f-8b4b-5e115170d807",
@@ -16,7 +16,7 @@
       "age": 3,
       "weight": 1,
       "name": "Teddy",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "6057de4f-6725-4b9f-a0b1-1f3bd3ad04a6",
@@ -25,7 +25,7 @@
       "age": 2,
       "weight": 5,
       "name": "Hemingway",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "a7c8b608-0d39-401b-a693-1bc882f21425",
@@ -61,7 +61,7 @@
       "age": 4,
       "weight": 5,
       "name": "Hemingway",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "24064151-0d34-4b9e-ba29-d4289bda8fe6",
@@ -70,7 +70,7 @@
       "age": 9,
       "weight": 4,
       "name": "Radar",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "18854fc7-00c9-4d6a-b3c6-bfd9a06ce1e7",
@@ -97,7 +97,7 @@
       "age": 6,
       "weight": 2,
       "name": "Max",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "20f15086-7952-4ead-bee4-bd8d8f990738",
@@ -106,7 +106,7 @@
       "age": 5,
       "weight": 1,
       "name": "Strike",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "1b44f0ee-1957-471b-b474-92650053995c",
@@ -115,7 +115,7 @@
       "age": 8,
       "weight": 4,
       "name": "Sprout",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "1a56b25a-008f-4c00-bdb7-9302ca608964",
@@ -160,7 +160,7 @@
       "age": 6,
       "weight": 5,
       "name": "Ivy",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "103bf0d9-00a3-41d4-b980-a2f3518a6b15",
@@ -205,7 +205,7 @@
       "age": 7,
       "weight": 6,
       "name": "Cuddles",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "f2874129-1524-4423-b7bd-2654a3a4147e",
@@ -223,7 +223,7 @@
       "age": 10,
       "weight": 5,
       "name": "Babs",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "77a12fc4-887f-4940-9670-8d216e6b653d",
@@ -295,7 +295,7 @@
       "age": 2,
       "weight": 5,
       "name": "Grim",
-      "isAdopted": false
+      "isAdopted": true
     },
     {
       "id": "f20db164-e63e-45e9-80df-d687988e1f09",
